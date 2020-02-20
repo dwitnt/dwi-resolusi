@@ -2,5 +2,5 @@ Dwi Resolusi
 - Mempelajari segala hal yang berhubungan dengan web developer
 - Membuat web portofolio
 - Membuat list web yang pernah dibuat
-- Membuat konten untuk youtube tutorial web
 - Membuat channel video tutorial
+- Membuat aplikasi instan
