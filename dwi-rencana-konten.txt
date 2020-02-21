@@ -3,7 +3,9 @@ Rencana Konten Dwi
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview ES6
 - Vlogs
